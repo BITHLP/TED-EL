@@ -8,7 +8,7 @@ The name of text file is same as audio file.
 
 # cite our paper
 
-@inproceedings{li-etal-2024-ted-el,
+    @inproceedings{li-etal-2024-ted-el,
 
     title = "{TED}-{EL}: A Corpus for Speech Entity Linking",
     
@@ -50,4 +50,4 @@ The name of text file is same as audio file.
     
     abstract = "Speech entity linking amis to recognize mentions from speech and link them to entities in knowledge bases. Previous work on entity linking mainly focuses on visual context and text context. In contrast, speech entity linking focuses on audio context. In this paper, we first propose the speech entity linking task. To facilitate the study of this task, we propose the first speech entity linking dataset, TED-EL. Our corpus is a high-quality, human-annotated, audio, text, and mention-entity pair parallel dataset derived from Technology, Entertainment, Design (TED) talks and includes a wide range of entity types (24 types). Based on TED-EL, we designed two types of models: ranking-based and generative speech entity linking models. We conducted experiments on the TED-EL dataset for both types of models. The results show that the ranking-based models outperform the generative models, achieving an F1 score of 60.68{\%}.",
     
-}
+    }
